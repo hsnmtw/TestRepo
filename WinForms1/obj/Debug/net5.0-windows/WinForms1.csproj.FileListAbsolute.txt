@@ -1,0 +1,16 @@
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.exe
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.deps.json
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.runtimeconfig.json
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.runtimeconfig.dev.json
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.dll
+D:\git\WinForms1\bin\Debug\net5.0-windows\ref\WinForms1.dll
+D:\git\WinForms1\bin\Debug\net5.0-windows\WinForms1.pdb
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.csprojAssemblyReference.cache
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.GeneratedMSBuildEditorConfig.editorconfig
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.AssemblyInfoInputs.cache
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.AssemblyInfo.cs
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.csproj.CoreCompileInputs.cache
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.dll
+D:\git\WinForms1\obj\Debug\net5.0-windows\ref\WinForms1.dll
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.pdb
+D:\git\WinForms1\obj\Debug\net5.0-windows\WinForms1.genruntimeconfig.cache
